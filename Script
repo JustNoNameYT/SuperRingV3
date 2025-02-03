@@ -4,7 +4,7 @@
 --   | |     | |  | | | |  | | | . ` |    | |      | |  | |   \ \/  \/ /   | . ` |      | |    |  __  |   | |    \___ \     \___ \  | |      |  _  /    | |   |  ___/     | |   
 --  _| |_    | |__| | | |__| | | |\  |    | |      | |__| |    \  /\  /    | |\  |      | |    | |  | |  _| |_   ____) |    ____) | | |____  | | \ \   _| |_  | |         | |   
 -- |_____|   |_____/   \____/  |_| \_|    |_|       \____/      \/  \/     |_| \_|      |_|    |_|  |_| |_____| |_____/    |_____/   \_____| |_|  \_\ |_____| |_|         |_|   
-print("This script was brought to you by JustNoName_YT, but I AM NOT THE ORIGINAL AUTHOR OF THIS SCRIPT! Thank you for understanding.")
+print("This script converted to loadstring by JustNoName_YT/grizlledX, but I AM NOT THE ORIGINAL AUTHOR OF THIS SCRIPT! Thank you for understanding.")
                                                                                                                                                                               
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
